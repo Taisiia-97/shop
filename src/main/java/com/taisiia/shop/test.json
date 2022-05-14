@@ -1,0 +1,11 @@
+{
+  "name":"KOty",
+  "description":"najlepszy",
+  "price":25,
+  "quantity":3,
+
+  "producerId":1,
+  "categoryIds":[
+    1
+  ]
+}
